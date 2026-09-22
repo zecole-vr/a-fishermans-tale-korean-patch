@@ -1,0 +1,28 @@
+name: 오역·미번역 제보
+description: 잘못 번역되었거나 번역되지 않은 부분을 알려 주세요.
+title: "[번역] "
+body:
+  - type: input
+    id: chapter
+    attributes:
+      label: 챕터와 상황
+      placeholder: 예) 2장, 물고기에게 먹이를 주는 장면
+    validations:
+      required: true
+  - type: textarea
+    id: text
+    attributes:
+      label: 문제가 있는 문장과 설명
+      description: 표시된 자막이나 들린 영어 대사를 적어 주세요. 수정 제안도 환영합니다.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 스크린샷 또는 영상
+      description: 가능하면 화면을 첨부해 주세요. 여기에 파일을 끌어다 놓을 수 있습니다.
+  - type: input
+    id: environment
+    attributes:
+      label: 사용 환경
+      placeholder: 예) Quest 3 / Virtual Desktop / SteamVR
