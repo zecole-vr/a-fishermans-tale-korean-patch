@@ -20,7 +20,7 @@ VR 유튜브 크리에이터 **제콜(ZECOLE)**이 제작한 비공식 한글패
 
 EXE와 설명서·라이선스를 담은 동일 이름의 **암호 없는 ZIP**도 제공합니다.
 ZIP은 전부 압축 해제한 뒤 EXE를 실행해 주세요. `Code → Download ZIP`은 설치용 배포 파일이 아닙니다.
-SHA256SUMS.txt에서 배포 파일의 체크섬을 확인할 수 있습니다. Quest용은 Windows PC에서 USB로 설치하는 도구입니다.
+릴리스의 `SHA256SUMS_Setup_1.1.1.txt`에서 새 배포 파일의 체크섬을 확인할 수 있습니다. Quest용은 Windows PC에서 USB로 설치하는 도구입니다.
 
 ## 설치법
 
