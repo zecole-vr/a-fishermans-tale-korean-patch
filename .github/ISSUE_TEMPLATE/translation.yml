@@ -2,6 +2,20 @@ name: 오역·미번역 제보
 description: 잘못 번역되었거나 번역되지 않은 부분을 알려 주세요.
 title: "[번역] "
 body:
+  - type: dropdown
+    id: platform
+    attributes:
+      label: 게임 플랫폼
+      options:
+        - Steam PCVR
+        - Meta Quest 단독 실행판
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: 게임 및 한글패치 버전
+      placeholder: 예) Quest 1.087(25) / 한글패치 1.0.0 / 설치기 1.1.1
   - type: input
     id: chapter
     attributes:
@@ -25,4 +39,4 @@ body:
     id: environment
     attributes:
       label: 사용 환경
-      placeholder: 예) Quest 3 / Virtual Desktop / SteamVR
+      placeholder: 예) PCVR — Quest 3 / Virtual Desktop / SteamVR 또는 Quest 단독 — Quest 3
