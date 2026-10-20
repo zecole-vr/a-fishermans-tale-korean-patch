@@ -1,6 +1,6 @@
 # A Fisherman’s Tale 한글패치
 
-VR 유튜브 크리에이터 **제콜(ZECOLE)**이 제작한 비공식 한글패치입니다.
+VR 유튜브 크리에이터 **제콜(ZECOLE)** 님이 제작한 비공식 한글패치입니다.
 
 게임 자막과 메뉴·설정·조작 안내·로딩 화면 등 인터페이스를 한글화했습니다. 영어 음성은 유지합니다.
 번역 패치 v1.0.0 / Windows 통합 설치 도구 v1.1.1 (빌드 20261018.3)
@@ -8,6 +8,8 @@ VR 유튜브 크리에이터 **제콜(ZECOLE)**이 제작한 비공식 한글패
 ## 다운로드와 지원 버전
 
 **설치 파일 하나로 PCVR과 Quest를 모두 지원합니다.**
+
+GitHub 로그인 없이 다운로드할 수 있습니다. 오역·미번역 제보를 작성할 때에는 GitHub 로그인이 필요합니다.
 
 [최신 통합 설치기 EXE 다운로드](https://github.com/zecole-vr/a-fishermans-tale-korean-patch/releases/download/v1.0.0/A-Fishermans-Tale_PCVR-Quest_Windows_v1.0.0_Setup_1.1.1.exe) · [최신 릴리스](https://github.com/zecole-vr/a-fishermans-tale-korean-patch/releases/latest)
 
@@ -59,7 +61,7 @@ Steam 이전 ZIP판은 알려진 패치 해시로 인식하여 기록을 만듭�
 - Quest: PC 백업 드라이브 15GB, 기기 5GB 여유 공간. 복구는 PC 3GB / 기기 5GB. EXE 임시 실행용 200MB 이상.
 - 내장 패치 설치는 인터넷 없이 가능합니다. GitHub 버전 확인과 업데이트 다운로드에는 인터넷이 필요합니다.
 
-비공개 저장소/통신 오류/API 제한으로 최신 버전을 조회하지 못하면 **버전 확인 실패**로 표시됩니다. ‘다시 확인’으로 재시도할 수 있습니다.
+통신 오류나 GitHub API 제한으로 최신 버전을 조회하지 못하면 **버전 확인 실패**로 표시됩니다. ‘다시 확인’으로 재시도할 수 있습니다.
 별도 개발 환경이 없는 새 Windows PC 및 고배율 DPI 실기 검증은 아직 완료하지 않았습니다.
 
 ## 폰트·출처
