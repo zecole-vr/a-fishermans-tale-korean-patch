@@ -3,7 +3,7 @@
 VR 유튜브 크리에이터 **제콜(ZECOLE)** 님이 제작한 비공식 한글패치입니다.
 
 게임 자막과 메뉴·설정·조작 안내·로딩 화면 등 인터페이스를 한글화했습니다. 영어 음성은 유지합니다.
-번역 패치 v1.0.0 / Windows 통합 설치 도구 v1.1.1 (빌드 20261018.3)
+번역 패치 v1.0.0 / Windows 통합 설치 도구 v1.1.2 (빌드 20261021.1)
 
 ## 다운로드와 지원 버전
 
@@ -11,9 +11,9 @@ VR 유튜브 크리에이터 **제콜(ZECOLE)** 님이 제작한 비공식 한�
 
 GitHub 로그인 없이 다운로드할 수 있습니다. 오역·미번역 제보를 작성할 때에는 GitHub 로그인이 필요합니다.
 
-[최신 통합 설치기 EXE 다운로드](https://github.com/zecole-vr/a-fishermans-tale-korean-patch/releases/download/v1.0.0/A-Fishermans-Tale_PCVR-Quest_Windows_v1.0.0_Setup_1.1.1.exe) · [최신 릴리스](https://github.com/zecole-vr/a-fishermans-tale-korean-patch/releases/latest)
+[최신 통합 설치기 EXE 다운로드](https://github.com/zecole-vr/a-fishermans-tale-korean-patch/releases/download/v1.0.0/A-Fishermans-Tale_PCVR-Quest_Windows_v1.0.0_Setup_1.1.2.exe) · [최신 릴리스](https://github.com/zecole-vr/a-fishermans-tale-korean-patch/releases/latest)
 
-`A-Fishermans-Tale_PCVR-Quest_Windows_v1.0.0_Setup_1.1.1.exe`
+`A-Fishermans-Tale_PCVR-Quest_Windows_v1.0.0_Setup_1.1.2.exe`
 
 | 게임 플랫폼 | 지원 게임 |
 |---|---|
@@ -22,7 +22,9 @@ GitHub 로그인 없이 다운로드할 수 있습니다. 오역·미번역 제�
 
 EXE와 설명서·라이선스를 담은 동일 이름의 **암호 없는 ZIP**도 제공합니다.
 ZIP은 전부 압축 해제한 뒤 EXE를 실행해 주세요. `Code → Download ZIP`은 설치용 배포 파일이 아닙니다.
-릴리스의 `SHA256SUMS_Setup_1.1.1.txt`에서 새 배포 파일의 체크섬을 확인할 수 있습니다. Quest용은 Windows PC에서 USB로 설치하는 도구입니다.
+릴리스의 `SHA256SUMS_Setup_1.1.2.txt`에서 새 배포 파일의 체크섬을 확인할 수 있습니다. Quest용은 Windows PC에서 USB로 설치하는 도구입니다.
+
+Quest에서 원본 추출 후 “지정된 경로를 찾을 수 없습니다” 오류가 발생하던 긴 경로 처리를 보완했습니다. 임시 작업 경로는 `%LOCALAPPDATA%\AFT\w`로 단축했으며 기존 백업·설치 기록 경로는 유지합니다. 해당 오류를 겪으셨다면 새 EXE를 내려받아 다시 실행해 주세요.
 
 ## 설치법
 
