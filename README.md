@@ -1,5 +1,8 @@
 # A Fisherman’s Tale 한글패치
 
+> **설치는 [ZECOLE VR 런처](https://github.com/zecole-vr/zecole-launcher)로 하세요.**  
+> 런처 하나로 이 한글패치를 설치·업데이트·원본 복구할 수 있습니다. → **[ZECOLE_Launcher.exe 받기](https://github.com/zecole-vr/zecole-launcher/releases/latest/download/ZECOLE_Launcher.exe)** (설치 없이 바로 실행)
+
 VR 유튜브 크리에이터 **제콜(ZECOLE)** 님이 제작한 비공식 한글패치입니다.
 
 게임 자막과 메뉴·설정·조작 안내·로딩 화면 등 인터페이스를 한글화했습니다. 영어 음성은 유지합니다.
